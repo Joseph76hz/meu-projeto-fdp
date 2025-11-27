@@ -1,5 +1,6 @@
 ﻿using System;
 using Name;
+using Texto;
 
 namespace Principal
 {
@@ -9,8 +10,8 @@ namespace Principal
         {
             Funcao.kai(45);
 
-            Console.WriteLine(Area.Ciruculo.AreaCirculo(5));
-            Console.WriteLine("Hello bitch");
+            Area.Ciruculo.AreaCirculo(5);
+            BlackHole.Palavra();
 
         }
     }
