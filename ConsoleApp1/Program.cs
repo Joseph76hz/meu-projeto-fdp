@@ -10,6 +10,7 @@ namespace Principal
             Funcao.kai(45);
 
             Console.WriteLine(Area.Ciruculo.AreaCirculo(5));
+            Console.WriteLine("Hello bitch");
 
         }
     }
